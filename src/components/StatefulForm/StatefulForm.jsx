@@ -36,6 +36,7 @@ const StatefulForm = () => {
 
     return (
         <div>
+             <h3>Form:2 -using Controlled Element</h3>
             <form onSubmit={handleSubmit}>
                 <input type="text" onChange={handleNameChange} name="name" />
                 <br />

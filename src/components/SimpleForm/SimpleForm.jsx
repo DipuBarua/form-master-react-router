@@ -11,6 +11,7 @@ const SimpleForm = () => {
     }
     return (
         <div>
+            <h3>Simple Form</h3>
             <form onSubmit={handleSubmit}>
                 <input type="text" name="name" />
                 <br />

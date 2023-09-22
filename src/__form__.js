@@ -8,4 +8,10 @@
 
 3.Uncontrolled Element: useRef to create a reference to the element and access value by using like: [nameRef.current.value]
 
+4.Custom Hook: 
+>> use hook to handle states and submit and error. (HookForm.jsx)
+>> reuseable component.
+
+5.
+
  */
