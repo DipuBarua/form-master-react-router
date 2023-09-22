@@ -12,6 +12,6 @@
 >> use hook to handle states and submit and error. (HookForm.jsx)
 >> reuseable component.
 
-5.
+5.Reusable Form: same form(input field, button,) used for multiple times using props to create multiple forms in same component.
 
  */
