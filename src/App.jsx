@@ -1,4 +1,5 @@
 import './App.css'
+import Grandpa from './components/Grandpa/Grandpa'
 import HookForm from './components/HookForm/HookForm'
 import RefForm from './components/RefForm/RefForm'
 import ReusableForm from './components/ReusableForm/ReusableForm'
@@ -32,6 +33,8 @@ function App() {
       <ReusableForm formTitle={'Profile Update'} handleSubmit={handleProfileUpdate} submitBtnText={'update'}>
         <p>This is profile update</p>
       </ReusableForm>
+
+      <Grandpa></Grandpa>
     </>
   )
 }

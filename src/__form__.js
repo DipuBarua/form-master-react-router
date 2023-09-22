@@ -14,4 +14,7 @@
 
 5.Reusable Form: same form(input field, button,) used for multiple times using props to create multiple forms in same component.
 
+6.Prop drilling
+
+7.Context API: instead of prop drilling
  */
